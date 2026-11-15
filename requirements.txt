@@ -5,3 +5,4 @@ transformers>=4.40
 torch
 sentencepiece
 edge-tts>=6.1
+gunicorn>=22.0
